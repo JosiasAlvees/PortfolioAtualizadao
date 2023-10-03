@@ -410,12 +410,8 @@ footer {
   left: 0;
   background: #00804b;
 }
-.skills .skills-content .right .java::before {
-  width: 65%;
-}
-.skills .skills-content .right .postman::before {
-  width: 50%;
-}
+
+
 .skills .skills-content .right .html::before {
   width: 85%;
 }
@@ -425,17 +421,15 @@ footer {
 .skills .skills-content .right .js::before {
   width: 55%;
 }
-.skills .skills-content .right .angular::before {
-  width: 46%;
-}
+
 .skills .skills-content .right .mysql::before {
   width: 40%;
 }
 .skills .skills-content .right .postgres::before {
-  width: 62%;
+  width: 40%;
 }
 .skills .skills-content .right .git::before {
-  width: 60%;
+  width: 80%;
 }
 /*  sessão projeto  */
 .teams .title::after {
