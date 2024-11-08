@@ -245,9 +245,7 @@ footer {
     border: 5px solid #adb2b9;
 } */
 
-.about .title::after {
-  content: "Objetivo";
-}
+
 .about .about-content .left {
   width: 35%;
 }

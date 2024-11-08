@@ -26,13 +26,13 @@ $(document).ready(function(){
      });
 
      var typed = new Typed(".typing", {
-         strings:["Desenvolvedor Front-end"],
+         strings:["Desenvolvedor Front-end e Professor de informática básica"],
          typeSpeed:100,
          backSpeed:60,
          loop:true
      });
      var typed = new Typed(".typing-2", {
-        strings:[" a vários Bootcamps e cursos para aprimorar meus conhecimentos em Desenvolvimeno de Softwares e me manter atualizado. Tenho grande apreço e muito gosto pelos estudos, acredito na tecnologia como solução e facilitação de várias situações vividas diariamente. Das mais simples até as mais complexas e com bom preparo, é possível alcançar todas as metas."],
+        strings:[" com sólida experiência em criar interfaces intuitivas e acessíveis. Especializado em HTML, CSS e JavaScript, aplico minhas habilidades tanto no desenvolvimento de soluções web quanto no ensino de informática básica, ajudando estudantes a entenderem e explorarem a tecnologia de maneira prática. Com paixão por inovação e educação, busco sempre novas maneiras de tornar o aprendizado mais simples e dinâmico."],
         typeSpeed:100,
         backSpeed:60,
         loop:true
